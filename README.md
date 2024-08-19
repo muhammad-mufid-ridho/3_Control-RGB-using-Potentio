@@ -21,7 +21,7 @@ Proyek ini menggunakan Arduino Uno untuk mengendalikan LED RGB dan mengubah warn
 
 Berikut adalah skematik rangkaian untuk menghubungkan LED RGB dengan Arduino Uno dan potensiometer:
 
-![Skematik Rangkaian](./3_Control%20RGB%20Color%20using%20Potentsio.pdf)
+![Skematik Rangkaian](./Neat%20Blad.png)
 
 ## Instalasi
 
